@@ -1,0 +1,49 @@
+.error
+{
+color:red;
+}
+.main-container
+{
+width:90hw;
+height:auto;
+border:1px solid black;
+}
+.header
+{
+margin:5px;
+width:90hw;
+height:60px;
+border:1px solid black;
+}
+.logo
+{
+float:left;
+margin-top:5px;
+}
+.brand-name
+{
+margin-top:9px;
+margin-bottom:9px;
+font-size:20pt;
+float:left;
+}
+.content
+{
+width:90hw;
+height:70vh;
+margin:5px;
+border:1px solid white;
+}
+.contactForm
+{
+width:27%;
+margin:0 auto;
+padding:20px;
+border:1px solid black;
+}
+.name
+{
+float:right;
+margin-right:10px;
+margin-top:5px;
+}
